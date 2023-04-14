@@ -27,3 +27,11 @@ ul, ol, tr, td, th {
   td{
     border: 2px solid ;
   }
+
+  footer{
+    margin-top: 5em;
+  }
+
+  #message{
+    
+  }
